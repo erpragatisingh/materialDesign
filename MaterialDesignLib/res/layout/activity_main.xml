@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.gc.materialdesign.views.ScrollView 
+<com.ps.materialdesign.views.ScrollView 
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:materialdesign="http://schemas.android.com/apk/res-auto"
     android:id="@+id/scroll"
@@ -12,14 +12,14 @@
     android:gravity="center"
     android:orientation="vertical" >
     
-<com.gc.materialdesign.views.ButtonFlat 
+<com.ps.materialdesign.views.ButtonFlat 
     android:id="@+id/buttonflat"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:background="#009688"
     android:text="Button"/>    
 
-<com.gc.materialdesign.views.ButtonRectangle 
+<com.ps.materialdesign.views.ButtonRectangle 
     android:id="@+id/button"
     android:layout_marginTop="16dp"
     android:layout_width="wrap_content"
@@ -27,7 +27,7 @@
     android:background="#009688"
     android:text="Ok"/>
 
-<com.gc.materialdesign.views.Slider 
+<com.ps.materialdesign.views.Slider 
     android:id="@+id/slider"
     android:layout_marginTop="16dp"
     android:layout_width="fill_parent"
@@ -37,7 +37,7 @@
     materialdesign:min="0"
     android:layout_height="wrap_content"/>
 
-<com.gc.materialdesign.views.ButtonFloat 
+<com.ps.materialdesign.views.ButtonFloat 
     android:id="@+id/buttonFloat"
     android:layout_marginTop="16dp"
     android:layout_width="wrap_content"
@@ -45,7 +45,7 @@
     materialdesign:icon="@drawable/ic_reloj_max"
     android:layout_height="wrap_content"/>
 
-<com.gc.materialdesign.views.ButtonFloatSmall 
+<com.ps.materialdesign.views.ButtonFloatSmall 
     android:id="@+id/buttonFloatSmall"
     android:layout_marginTop="16dp"
     android:layout_width="wrap_content"
@@ -53,7 +53,7 @@
     materialdesign:icon="@drawable/ic_reloj_max"
     android:layout_height="wrap_content"/>
 
-<com.gc.materialdesign.views.CheckBox 
+<com.ps.materialdesign.views.CheckBox 
     android:id="@+id/checkBox"
     android:layout_marginTop="16dp"
     android:layout_width="wrap_content"
@@ -61,7 +61,7 @@
     materialdesign:check="true"
     android:layout_height="wrap_content"/>
 
-<com.gc.materialdesign.views.Switch 
+<com.ps.materialdesign.views.Switch 
     android:id="@+id/switchView"
     android:layout_marginTop="16dp"
     android:layout_width="wrap_content"
@@ -70,21 +70,21 @@
     android:layout_height="wrap_content"/>
 
 
-<com.gc.materialdesign.views.ProgressBarDetermininate 
+<com.ps.materialdesign.views.ProgressBarDetermininate 
     android:id="@+id/progressDeterminate"
     android:layout_marginTop="16dp"
     android:layout_width="fill_parent"
     android:background="#009688"
     android:layout_height="wrap_content"/>
 
-<com.gc.materialdesign.views.ProgressBarIndeterminate 
+<com.ps.materialdesign.views.ProgressBarIndeterminate 
     android:id="@+id/progressBarIndeterminate"
     android:layout_marginTop="16dp"
     android:layout_width="fill_parent"
     android:background="#009688"
     android:layout_height="wrap_content"/>
 
-<com.gc.materialdesign.views.ProgressBarIndeterminateDeterminate
+<com.ps.materialdesign.views.ProgressBarIndeterminateDeterminate
     android:id="@+id/progressBarIndeterminateDeterminate"
     android:layout_marginTop="16dp"
     android:layout_width="fill_parent"
@@ -92,7 +92,7 @@
     android:layout_height="wrap_content"/>
 
 
-<com.gc.materialdesign.views.ProgressBarCircularIndetermininate
+<com.ps.materialdesign.views.ProgressBarCircularIndetermininate
     android:id="@+id/progressBarCircularIndetermininate"
     android:layout_marginTop="16dp"
     android:layout_width="32dp"
@@ -101,4 +101,4 @@
 
 
 </LinearLayout>
-</com.gc.materialdesign.views.ScrollView>
+</com.ps.materialdesign.views.ScrollView>

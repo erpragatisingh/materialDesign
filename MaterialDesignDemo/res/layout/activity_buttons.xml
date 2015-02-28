@@ -34,7 +34,7 @@
             android:layout_width="fill_parent"
             android:layout_height="72dp" >
 
-            <com.gc.materialdesign.views.ButtonFlat
+            <com.ps.materialdesign.views.ButtonFlat
                 android:id="@+id/buttonflat"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -66,7 +66,7 @@
             android:layout_width="fill_parent"
             android:layout_height="72dp" >
 
-            <com.gc.materialdesign.views.ButtonRectangle
+            <com.ps.materialdesign.views.ButtonRectangle
                 android:id="@+id/button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -98,7 +98,7 @@
             android:layout_width="fill_parent"
             android:layout_height="72dp" >
 
-            <com.gc.materialdesign.views.ButtonFloatSmall
+            <com.ps.materialdesign.views.ButtonFloatSmall
                 android:id="@+id/buttonFloatSmall"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -127,7 +127,7 @@
                 android:background="#1E88E5" />
         </RelativeLayout>
     </LinearLayout>
-    <com.gc.materialdesign.views.ButtonFloat
+    <com.ps.materialdesign.views.ButtonFloat
                 android:id="@+id/buttonFloat"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

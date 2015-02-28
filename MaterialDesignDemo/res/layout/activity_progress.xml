@@ -33,7 +33,7 @@
             android:layout_width="fill_parent"
             android:layout_height="48dp" >
 
-            <com.gc.materialdesign.views.ProgressBarCircularIndetermininate
+            <com.ps.materialdesign.views.ProgressBarCircularIndetermininate
                 android:id="@+id/progressBarCircularIndetermininate"
                 android:layout_width="32dp"
                 android:layout_height="32dp"
@@ -64,7 +64,7 @@
             android:layout_width="fill_parent"
             android:layout_height="48dp" >
 
-            <com.gc.materialdesign.views.ProgressBarIndeterminate
+            <com.ps.materialdesign.views.ProgressBarIndeterminate
                 android:id="@+id/progressBarIndeterminate"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
@@ -95,7 +95,7 @@
             android:layout_width="fill_parent"
             android:layout_height="48dp" >
 
-            <com.gc.materialdesign.views.ProgressBarIndeterminateDeterminate
+            <com.ps.materialdesign.views.ProgressBarIndeterminateDeterminate
                 android:id="@+id/progressBarIndeterminateDeterminate"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
@@ -127,7 +127,7 @@
             android:layout_width="fill_parent"
             android:layout_height="48dp" >
 
-            <com.gc.materialdesign.views.ProgressBarDetermininate
+            <com.ps.materialdesign.views.ProgressBarDetermininate
                 android:id="@+id/progressDeterminate"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
@@ -158,7 +158,7 @@
             android:layout_width="fill_parent"
             android:layout_height="48dp" >
 
-            <com.gc.materialdesign.views.Slider
+            <com.ps.materialdesign.views.Slider
                 android:id="@+id/slider"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
@@ -192,7 +192,7 @@
             android:layout_width="fill_parent"
             android:layout_height="48dp" >
 
-            <com.gc.materialdesign.views.Slider
+            <com.ps.materialdesign.views.Slider
                 android:id="@+id/sliderNumber"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"

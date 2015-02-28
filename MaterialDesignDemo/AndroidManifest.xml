@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.gc.materialdesigndemo"
+    package="com.ps.materialdesigndemo"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -13,7 +13,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.gc.materialdesigndemo.ui.MainActivity"
+            android:name="com.ps.materialdesigndemo.ui.MainActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
             <intent-filter>
@@ -23,22 +23,22 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.gc.materialdesigndemo.ui.ButtonsActivity"
+            android:name="com.ps.materialdesigndemo.ui.ButtonsActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.gc.materialdesigndemo.ui.SwitchActivity"
+            android:name="com.ps.materialdesigndemo.ui.SwitchActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.gc.materialdesigndemo.ui.ProgressActivity"
+            android:name="com.ps.materialdesigndemo.ui.ProgressActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.gc.materialdesigndemo.ui.WidgetActivity"
+            android:name="com.ps.materialdesigndemo.ui.WidgetActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
         </activity>
